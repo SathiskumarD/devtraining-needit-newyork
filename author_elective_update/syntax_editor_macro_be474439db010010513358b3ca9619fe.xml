@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="syntax_editor_macro">
+    <syntax_editor_macro action="DELETE">
+        <comments/>
+        <name>Using Syntax Editor in the Name Field</name>
+        <sys_class_name>syntax_editor_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-11 15:03:03</sys_created_on>
+        <sys_id>be474439db010010513358b3ca9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Using Syntax Editor in the Name Field</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>syntax_editor_macro_be474439db010010513358b3ca9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-11 15:03:03</sys_updated_on>
+        <text/>
+    </syntax_editor_macro>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>44dbb299db3e9f00439ef70fbf96191b</instance_id>
+        <instance_name>dev61672</instance_name>
+        <name>syntax_editor_macro_be474439db010010513358b3ca9619fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="syntax_editor_macro"><syntax_editor_macro action="INSERT_OR_UPDATE"><comments/><name>Using Syntax Editor in the Name Field</name><sys_class_name>syntax_editor_macro</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-11 15:03:03</sys_created_on><sys_id>be474439db010010513358b3ca9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Using Syntax Editor in the Name Field</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>syntax_editor_macro_be474439db010010513358b3ca9619fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-11 15:03:03</sys_updated_on><text/></syntax_editor_macro></record_update>]]></payload>
+        <payload_hash>2015006449</payload_hash>
+        <record_name>Using Syntax Editor in the Name Field</record_name>
+        <reverted_from/>
+        <source>ae703245db450010513358b3ca9619f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-11 15:03:03</sys_created_on>
+        <sys_id>036708f5db010010513358b3ca961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e5afd59310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-11 15:03:03</sys_updated_on>
+        <type>Editor Macro</type>
+        <update_guid>0b6708f56d01001015d72abb4215a338</update_guid>
+        <update_guid_history>0b6708f56d01001015d72abb4215a338:2015006449</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Using Syntax Editor in the Name Field">629740b1db010010513358b3ca9619a8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-11 15:03:50</sys_created_on>
+        <sys_db_object display_value="" name="syntax_editor_macro">syntax_editor_macro</sys_db_object>
+        <sys_id>761a0918a4714e98888868b8d0aef4e4</sys_id>
+        <sys_metadata>be474439db010010513358b3ca9619fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Using Syntax Editor in the Name Field</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>syntax_editor_macro_be474439db010010513358b3ca9619fe</sys_update_name>
+        <sys_update_version display_value="syntax_editor_macro_be474439db010010513358b3ca9619fe">036708f5db010010513358b3ca961939</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-11 15:03:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
